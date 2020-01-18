@@ -25,4 +25,3 @@ if (buildMeUp.length + 1) {
 
 // Invoke the function and pass in the array
 addExcitement(sentence)
-// debugger
